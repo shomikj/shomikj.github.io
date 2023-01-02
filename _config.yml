@@ -83,7 +83,7 @@ author:
   name             : "Shomik Jain"
   avatar           : "me.jpeg"
   bio              : "MIT PhD Student"
-  location         : "Cambridge, MA"
+  location         :
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=E2Zi-8YAAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shomikj"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
